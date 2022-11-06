@@ -6,6 +6,8 @@ Student ID: L00177587
 -
 
 3. Link to github repo
+HTTPS: https://github.com/VoroninLevan/L00177587_CA1.git
+SSH: git@github.com:VoroninLevan/L00177587_CA1.git
 
 
 4. Additional info
